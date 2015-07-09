@@ -1,0 +1,17 @@
+{
+  "name": "comic_book_site",
+  "version": "0.0.0",
+  "homepage": "https://github.com/higgintop/comic_book_site",
+  "authors": [
+    "Allison Higginbotham <higgintop@gmail.com>"
+  ],
+  "description": "AngularJS site to display comic strips and artwork",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
