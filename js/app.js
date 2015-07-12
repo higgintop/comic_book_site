@@ -1,1 +1,1 @@
-var app = angular.module("zombkeekeeApp", ['ngRoute']);
+var app = angular.module("zombkeekeeApp", ['ngRoute', 'routeStyles']);
