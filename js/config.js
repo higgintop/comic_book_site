@@ -6,6 +6,11 @@ app.config(['$routeProvider',
         controller: 'LandingPageController',
         css: '../css/partials/landing-page.css'
       }).
+      when('/archive', {
+        templateUrl: '../views/partials/archive.html',
+        controller: 'LandingPageController',
+        css: '../css/partials/archive.css'
+      }).
       otherwise({
         redirectTo: '/'
       });
