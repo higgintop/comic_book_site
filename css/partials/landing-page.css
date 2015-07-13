@@ -73,8 +73,8 @@ body {
   z-index: 4;
   width: 30%;
   height: 50%;
-  left: 700px;
-  top: 60px;
+  left: 60%;
+  top: 13%;
   transform: rotate(5deg);
 }
 
@@ -136,8 +136,8 @@ Phone layout
       z-index: 4;
       width: 20%;
       height: 20%;
-      left: 600px;
-      top: 340px;
+      left: 70%;
+      top: 30%;
       -webkit-transform: rotate(25deg);
     }
 }
