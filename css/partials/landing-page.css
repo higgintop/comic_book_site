@@ -77,6 +77,17 @@ body {
   top: 60px;
   transform: rotate(5deg);
 }
+
+.torchbearer {
+  position: absolute;
+  z-index: 4;
+  width: 10%;
+  height: 20%;
+  left: 420px;
+  top: 130px;
+  transform: rotate(5deg);
+}
+
 /*****************************************
   Keyframes for Animating Stars
 *****************************************/
