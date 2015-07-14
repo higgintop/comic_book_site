@@ -10,6 +10,11 @@ body {
   background-color: #1F3D00;
 }
 
+/* Hide navbar on landing page */
+.navbar {
+  z-index: 0;
+}
+
 .night-sky {
 	position:absolute;
   top:0;

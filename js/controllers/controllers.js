@@ -1,6 +1,6 @@
 //************************************************************
 // LANDING PAGE CONTROLLER
 //************************************************************
-  app.controller('LandingPageController', function($scope) {
-  	// to do
-  });
+app.controller('LandingPageController', function($scope) {
+	// to do
+});
